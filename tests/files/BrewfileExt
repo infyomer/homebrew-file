@@ -1,0 +1,11 @@
+## Before commands
+before echo EXT before
+
+# brew
+brew install cmake
+
+# rcmdnk/rcmdnkpac
+tapall rcmdnk/rcmdnkpac
+
+## After commands
+after echo EXT after
